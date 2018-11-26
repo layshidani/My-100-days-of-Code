@@ -8,7 +8,7 @@ The log of my #100DaysOfCode challenge.
 
 # Log
 
-## :calendar: R1D1
+### :calendar: R1D1
 **Today's Progress:** I started my first @freeCodeCamp (Tribute Page) project.
 
 **Thoughts:** I need to check CSS flexbox and grid.
@@ -19,7 +19,7 @@ The log of my #100DaysOfCode challenge.
 ![Tribute page](images/r1d1.jpg)
 
 
-## :calendar: R1D2
+### R1D2
 **Today's Progress:** Working on @freeCodeCamp's Tribute Page.
 
 I reviewed flexbox and grid CSS.
@@ -34,7 +34,7 @@ I reviewed flexbox and grid CSS.
 
 ![Photo: Kuwait, a burning desert (Sebastião Salgado)](images/r1d2.jpg)
 
-## :calendar: R1D3
+### :calendar: R1D3
 **Today's Progress:** Studying a bit of css and JavaScript. (articles, youtube, book "Javascript - The Definitive Guide").
 
 **Thoughts:** I'm having a bit of trouble with the photo gallery session on my Tribute Page. Reviewing and researching good CSS materials.
@@ -42,7 +42,7 @@ I reviewed flexbox and grid CSS.
 **Link to work:** [FreeCodeCamp - Tribute page](https://codepen.io/hlays/full/OaxNvj)
 
 
-## :calendar: R1D4
+### :calendar: R1D4
 **Today's Progress:** Studying a bit of css and JavaScript. (articles, youtube, book "The Definitive Guide Javascript").
 
 **Thoughts:** Javascript - The Definitive Guide by David Flanagan is a excellent book.
@@ -55,7 +55,7 @@ I reviewed flexbox and grid CSS.
 
 **Link to work:** [FreeCodeCamp - Tribute page](https://codepen.io/hlays/full/OaxNvj)
 
-## :calendar: R1D5
+### :calendar: R1D5
 **Today's Progress:** Studying CSS through the course of [Coding Artist](https://t.co/u9UAbEXmZR).
 
 **Thoughts:** I started the course of [Coding Artist](https://t.co/u9UAbEXmZR). Relly good and recommended.
@@ -65,7 +65,7 @@ I reviewed flexbox and grid CSS.
 
 ![Koala vs1](images/r1d5.jpg)
 
-## :calendar: R1D6
+### :calendar: R1D6
 **Today's Progress:** Progressing in CSS study through the @codingartist_io course.
 I finished and submitted @freeCodeCamp's Tribute Page and Survey Form.
 Developing a Learning Tracking on Github
@@ -84,9 +84,16 @@ I have to review and learn a lot more about CSS.
 
 ![FreeCodeCamp - Survey form](images/r1d7.jpg)
 
-## :calendar: R1D7
-**Today's Progress:** I've revised some CSS and started with a Javascript Udemy course ([JavaScript - Curso Completo com 6 Projetos Reais](https://www.udemy.com/javascript-curso-completo/)).
+### :calendar: R1D7
+**Today's Progress:** I've revised some CSS and started with a Javascript Udemy ([JavaScript - Curso Completo com 6 Projetos Reais](https://www.udemy.com/javascript-curso-completo/)).
 
 **Thoughts:** 
 
 **Link to work:** [FreeCodeCamp - Survey form](https://codepen.io/hlays/full/oQdYEE)
+
+### :calendar: R1D8
+** Today's Progress: ** Studing JavaScript Udemy ([JavaScript - Complete Course with 6 Real Projects] (https://www.udemy.com/javascript-curricular-complete)).
+
+** Thoughts: ** I wish there were more lists of javascript exercises on the internet to practice and retain knowledge, as is the case with Python. I think I'll use the python exercise lists for JS practice.
+
+**Link to work:** 
