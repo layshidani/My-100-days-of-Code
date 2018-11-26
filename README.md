@@ -1,10 +1,11 @@
 # I've joined the #100DaysOfCode Challenge
-![Twitter](https://twitter.com/hlays_)
+[Twitter](https://twitter.com/hlays_)
+
 
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
