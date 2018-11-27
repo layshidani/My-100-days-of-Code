@@ -92,8 +92,15 @@ I have to review and learn a lot more about CSS.
 **Link to work:** [FreeCodeCamp - Survey form](https://codepen.io/hlays/full/oQdYEE)
 
 ### :calendar: R1D8
-** Today's Progress: ** Studing JavaScript Udemy ([JavaScript - Complete Course with 6 Real Projects] (https://www.udemy.com/javascript-curricular-complete)).
+** Today's Progress: ** Studing JavaScript Udemy ([JavaScript - Curso Completo com 6 Projetos Reais](https://www.udemy.com/javascript-curso-completo/)).
 
 ** Thoughts: ** I wish there were more lists of javascript exercises on the internet to practice and retain knowledge, as is the case with Python. I think I'll use the python exercise lists for JS practice.
+
+**Link to work:** 
+
+### :calendar: R1D9
+** Today's Progress: ** Studying basic JavaScript (udemy) and improving CSS.
+
+** Thoughts: ** I do not have much time to study today, but I completed my first hour.
 
 **Link to work:** 
