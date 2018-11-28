@@ -104,3 +104,9 @@ I have to review and learn a lot more about CSS.
 ** Thoughts: ** I do not have much time to study today, but I completed my first hour.
 
 **Link to work:** 
+
+### :calendar: R1D10
+** Today's Progress: ** Studying CSS: combinator and pseudo (class and element) selectors. 
+I'm also working on a notebook with notes on my CSS learning.
+
+**Link to work:** [My Learning notebooks](https://github.com/hlays/mylearningnotebooks)
