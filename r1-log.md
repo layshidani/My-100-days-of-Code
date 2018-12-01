@@ -110,3 +110,30 @@ I have to review and learn a lot more about CSS.
 I'm also working on a notebook with notes on my CSS learning.
 
 **Link to work:** [My Learning notebooks](https://github.com/hlays/mylearningnotebooks)
+
+### :calendar: R1D11
+** Today's Progress: ** I started working on the FreeCodeCamp technical documentation page.
+
+** Thoughts: ** I chose CSS as the theme. Its is a theme that I have had to revise a few times ... 
+About me and CSS: Someday, maybe, we'll understand each other. 
+We are strengthening our friendship. 😅😆
+
+![FreeCodeCamp - Technical Documentation Page](images/r1d11.jpg)
+
+**Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
+
+### :calendar: R1D12
+** Today's Progress: ** Working on the FreeCodeCamp technical documentation page.
+
+** Thoughts: ** Today I've learned new things on HTML, like I've to use plain text to show HTML code into a HTML page (This is a good tool to this convertion http://nosetup.org/php_on_line/convertir_html_texto).
+
+**Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
+
+### :calendar: R1D13
+** Today's Progress: ** Today I tried to make my FCC project look a little better. I reviewed about CSS: text-decoration, CSS selectors tips, text-indent, box-shadow, line-height, list-style-type.
+
+** Thoughts: ** Google, W3Schools and MDN are always my best friends.
+
+**Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
+
+![FreeCodeCamp - Technical Documentation Page](images/r1d13.jpg)
