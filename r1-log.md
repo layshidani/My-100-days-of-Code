@@ -137,3 +137,16 @@ We are strengthening our friendship. 😅😆
 **Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
 
 ![FreeCodeCamp - Technical Documentation Page](images/r1d13.jpg)
+
+### :calendar: R1D14
+** Today's Progress: ** Review box model, float, horizontal and vertical navs.
+
+
+### :calendar: R1D15
+** Today's Progress: ** Working on FCC Technical Documentation Page.
+
+** Thoughts: **
+
+**Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
+
+![FreeCodeCamp - Technical Documentation Page](images/r1d15.jpg)
