@@ -150,3 +150,12 @@ We are strengthening our friendship. 😅😆
 **Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
 
 ![FreeCodeCamp - Technical Documentation Page](images/r1d15.jpg)
+
+### :calendar: R1D16
+** Today's Progress: ** I have completed the FCC Technical Documentation page.
+
+** Thoughts: ** In this project I've struggled a little harder to pass the FCC test. It's because there was a typo in a href link in navbar and it took me a long time to find it. I broke my head, but after resolving it, it all seemed like a silly fail. I will add more content to this page in the future.
+
+**Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
+
+![FreeCodeCamp - Technical Documentation Page](images/r1d16.jpg)
