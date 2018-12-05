@@ -156,6 +156,15 @@ We are strengthening our friendship. 😅😆
 
 ** Thoughts: ** In this project I've struggled a little harder to pass the FCC test. It's because there was a typo in a href link in navbar and it took me a long time to find it. I broke my head, but after resolving it, it all seemed like a silly fail. I will add more content to this page in the future.
 
+![FreeCodeCamp - Technical Documentation Page](images/r1d16.jpg)
+
 **Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
 
-![FreeCodeCamp - Technical Documentation Page](images/r1d16.jpg)
+### :calendar: R1D17
+** Today's Progress: ** I'm working on the FCC landing page.
+
+** Thoughts: ** I'm having difficulty because my navbar (using display flexbox) is not working well with "fixed position".
+
+![FreeCodeCamp - Technical Documentation Page](images/r1d17.jpg)
+
+**Link to work:** [FCC - Landing Page](https://codepen.io/hlays/full/LXKGYq)
