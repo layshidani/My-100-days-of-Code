@@ -168,3 +168,12 @@ We are strengthening our friendship. 😅😆
 ![FreeCodeCamp - Technical Documentation Page](images/r1d17.jpg)
 
 **Link to work:** [FCC - Landing Page](https://codepen.io/hlays/full/LXKGYq)
+
+### :calendar: R1D18
+** Today's Progress: ** I'm working in #freeCodeCamp Landing page project.
+
+** Thoughts: ** Fixed my navbar. Now, I have to fix some test issues.
+
+![FreeCodeCamp - Technical Documentation Page](images/r1d18.jpg)
+
+**Link to work:** [FCC - Landing Page](https://codepen.io/hlays/full/LXKGYq)
