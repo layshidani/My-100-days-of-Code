@@ -177,3 +177,12 @@ We are strengthening our friendship. 😅😆
 ![FreeCodeCamp - Technical Documentation Page](images/r1d18.jpg)
 
 **Link to work:** [FCC - Landing Page](https://codepen.io/hlays/full/LXKGYq)
+
+### :calendar: R1D19
+** Today's Progress: ** 
+- Javascript tutorials and exercises. 
+- CSS Dinner
+- CSS grid Garden 
+
+
+![FreeCodeCamp - Technical Documentation Page](images/r1d19.jpg)
