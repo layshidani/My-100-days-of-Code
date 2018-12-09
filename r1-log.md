@@ -184,5 +184,16 @@ We are strengthening our friendship. 😅😆
 - CSS Dinner
 - CSS grid Garden 
 
+### :calendar: R1D20
+** Today's Progress: ** 
+- Javascript tutorials and exercises. 
+- CSS Dinner
+- CSS grid Garden 
 
 ![FreeCodeCamp - Technical Documentation Page](images/r1d19.jpg)
+
+
+### :calendar: R1D21
+** Today's Progress: **  JS functions
+
+** Thoughts: ** to know a little of python help me a lot to learn javascript
