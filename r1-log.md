@@ -197,3 +197,7 @@ We are strengthening our friendship. 😅😆
 ** Today's Progress: **  JS functions
 
 ** Thoughts: ** to know a little of python help me a lot to learn javascript
+
+### :calendar: R1D22
+** Today's Progress: **  Reviewing HTML, CSS and JS.
+
