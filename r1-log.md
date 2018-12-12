@@ -201,3 +201,12 @@ We are strengthening our friendship. 😅😆
 ### :calendar: R1D22
 ** Today's Progress: **  Reviewing HTML, CSS and JS.
 
+### :calendar: R1D23
+** Today's Progress: **  Working on a Trivia project with HTML, CSS and JavaScript.
+
+### :calendar: R1D24
+** Today's Progress: **  Trivia Project - Laboratoria (pre admission) concluded.
+
+** Thoughts: ** It was difficult to finish this project on time, but the task was completed successfully!
+
+![Trivia Project - Laboratoria pre admission](images/r1d24.jpg)
