@@ -210,3 +210,18 @@ We are strengthening our friendship. 😅😆
 ** Thoughts: ** It was difficult to finish this project on time, but the task was completed successfully!
 
 ![Trivia Project - Laboratoria pre admission](images/r1d24.jpg)
+
+### :calendar: R1D25 #100DaysOfCode
+
+** Today's Progress: ** Code review with my Laboratoria squad, quiz, JavaScript list of exercises.
+
+** Thoughts: ** I enjoyed doing this code review, it's amazing how each person finds a different solution to the same problem. It's cool.
+
+### :calendar: R1D26 #100DaysOfCode
+
+** Today's Progress: ** More JS and exercises.
+
+### :calendar: R1D27 #100DaysOfCode
+(I paused for this weekend because of appointments. But I read articles and I listened to podcasts in free time.)
+
+** Today's Progress: ** Working on the tests of FCC Product Landing Page and watching JS tutorials.
