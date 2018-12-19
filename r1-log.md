@@ -236,3 +236,15 @@ I reviewed the fundamentals of JS.
 ![FreeCodeCamp - Landing Page](images/r1d28.jpg)
 
 **Link to work:** [FCC - Landing Page](https://codepen.io/hlays/full/LXKGYq)
+
+### :calendar: R1D29 #100DaysOfCode
+** Today's Progress: ** 
+
+- I made the horizontal navigation bar fixed in the FCC Product Landing Page project.
+- Work on JS FreeCodingCamp lessons and watch tutorials on JS arrays.
+
+** Thoughts: ** I have only one problem to solve in this project to pass the FCC test. The page was very simple, but I liked the result.
+
+![FreeCodeCamp - Landing Page](images/r1d29.jpg)
+
+**Link to work:** [FCC - Landing Page](https://codepen.io/hlays/full/LXKGYq)
