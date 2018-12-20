@@ -248,3 +248,15 @@ I reviewed the fundamentals of JS.
 ![FreeCodeCamp - Landing Page](images/r1d29.jpg)
 
 **Link to work:** [FCC - Landing Page](https://codepen.io/hlays/full/LXKGYq)
+
+### :calendar: R1D30 #100DaysOfCode
+** Today's Progress: ** 
+
+- FCC Product Landing Page Complete! I am now working on FCC Personal Portifolio (which will have more projects :) thanks @freecodecamp for this content building curriculum and experience gained during the projects).
+- I worked on the FCC JS curriculum exercises today. I also did some other JS exercises on arrays and functions and watched JS tutorials.
+
+** Thoughts: ** Day 30! A Challenge Month #100DaysOfCode.
+
+![FreeCodeCamp - Landing Page](images/r1d30.jpg)
+
+**Link to work:** [FCC - Landing Page](https://codepen.io/hlays/full/LXKGYq)
