@@ -260,3 +260,12 @@ I reviewed the fundamentals of JS.
 ![FreeCodeCamp - Landing Page](images/r1d30.jpg)
 
 **Link to work:** [FCC - Landing Page](https://codepen.io/hlays/full/LXKGYq)
+
+### :calendar: R1D31 #100DaysOfCode
+** Today's Progress: ** 
+
+- I started working at FCC Personal Portifolio,
+- JS exercises on switch and functions,
+- FCC Javascript exercises.
+
+** Thoughts: ** 
