@@ -269,3 +269,11 @@ I reviewed the fundamentals of JS.
 - FCC Javascript exercises.
 
 ** Thoughts: ** 
+
+### :calendar: R1D32 #100DaysOfCode
+** Today's Progress: ** 
+
+- JS exercises and Tutorials,
+- FCC Javascript exercises.
+
+** Thoughts: ** 
