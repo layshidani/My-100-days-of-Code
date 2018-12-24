@@ -286,3 +286,15 @@ I reviewed the fundamentals of JS.
 - @freecodecamp Javascript exercises.
 
 ** Thoughts: **  It's fun work with arrays.
+
+### :calendar: R1D34 #100DaysOfCode
+** Today's Progress: ** 
+
+- Working on FCC Personal Portifolio (There is still much to improve, but it is going!)
+- Watched JS Tutorials
+
+** Thoughts: **  Today is Christmas Eve, but code challenge is completed!
+
+![FreeCodeCamp - Personal Portifolio](images/r1d34.jpg)
+
+**Link to work:** [FCC - Personal Portifolio](https://repl.it/@hlays/FCC-Personal-Portifolio)
