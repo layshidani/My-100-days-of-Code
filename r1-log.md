@@ -277,3 +277,12 @@ I reviewed the fundamentals of JS.
 - FCC Javascript exercises.
 
 ** Thoughts: ** 
+
+### :calendar: R1D33 #100DaysOfCode
+** Today's Progress: ** 
+
+- JS arrays,
+- JS wrapper objects,
+- @freecodecamp Javascript exercises.
+
+** Thoughts: **  It's fun work with arrays.
