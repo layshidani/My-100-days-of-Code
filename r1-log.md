@@ -302,7 +302,6 @@ I reviewed the fundamentals of JS.
 ### :calendar: R1D35 #100DaysOfCode
 ** Today's Progress: ** 
 
-Today progress:
 - JS: do, for, for in
 - Git Merge and rebase articles and tutorials
 
@@ -315,3 +314,15 @@ Today progress:
 ![FreeCodeCamp - Personal Portifolio](images/r1d36.jpg)
 
 **Link to work:** [FCC - Personal Portifolio](https://repl.it/@hlays/FCC-Personal-Portifolio)
+
+### :calendar: R1D37 #100DaysOfCode
+** Today's Progress: ** 
+
+- @freecodecamp Responsive Web Design complete!
+- JS Exercises (converting type, functions)
+- Pluralsight How Git Works complete
+- Pluralsight HTML, CSS, JS: Big Picture complete
+
+** Thoughts: ** Today the day is being productive.
+
+![FreeCodeCamp - Personal Portifolio](images/r1d37.jpg)
