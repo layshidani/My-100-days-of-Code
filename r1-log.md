@@ -298,3 +298,20 @@ I reviewed the fundamentals of JS.
 ![FreeCodeCamp - Personal Portifolio](images/r1d34.jpg)
 
 **Link to work:** [FCC - Personal Portifolio](https://repl.it/@hlays/FCC-Personal-Portifolio)
+
+### :calendar: R1D35 #100DaysOfCode
+** Today's Progress: ** 
+
+Today progress:
+- JS: do, for, for in
+- Git Merge and rebase articles and tutorials
+
+### :calendar: R1D36 #100DaysOfCode
+** Today's Progress: ** 
+
+- FCC Personal Portifolio complete.
+- Watched JS Tutorials (objects)
+
+![FreeCodeCamp - Personal Portifolio](images/r1d36.jpg)
+
+**Link to work:** [FCC - Personal Portifolio](https://repl.it/@hlays/FCC-Personal-Portifolio)
