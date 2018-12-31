@@ -1,3 +1,7 @@
+[Log - click here to see my progress](r1-log.md)
+
+Example:
+
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
