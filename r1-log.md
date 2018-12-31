@@ -381,3 +381,22 @@ Today the day is being productive.
 
 ** Thoughts: **
 As I improve my knowledge and experience, I want to get back on the FCC projects and improve them.
+
+---
+### :calendar: R1D40 #100DaysOfCode
+** Today's Progress: ** 
+- Pluralsight Mastering Git complete
+- Starting Pluralsight Building a JavaScript development environment (and loving this course)
+- JS tutorials on array methods
+
+** Thoughts: **
+
+---
+### :calendar: R1D41 #100DaysOfCode
+** Today's Progress: ** 
+- JS Tutorials (this, browser, more about Array Methods)
+
+** Thoughts: **
+
+Today is the Last day of the year 2018. 
+2019 is coming and I wish a year full of good achievements for all of us!
