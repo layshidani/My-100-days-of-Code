@@ -398,5 +398,23 @@ As I improve my knowledge and experience, I want to get back on the FCC projects
 
 ** Thoughts: **
 
-Today is the Last day of the year 2018. 
+Today is the Last day of the year 2018...
 2019 is coming and I wish a year full of good achievements for all of us!
+
+---
+### :calendar: R1D42 #100DaysOfCode 
+- Advancing on course: Building a development environment (Pluralsight)
+- Reading some articles. 
+
+**Link to work:** [A good article I've read: Pro tips for Visual Studio Code to be productive in 2018](https://dev.to/teamxenox/pro-tips-for-visual-studio-code-to-be-productive-in-2018--1jek)
+
+---
+### :calendar: R1D43 #100DaysOfCode 
+- Advancing on course: Building a development environment (Pluralsight)
+- JS Tutorials and exercises
+
+**Link to work:** [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
+
+
+
+📌
