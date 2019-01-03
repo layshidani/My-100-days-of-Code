@@ -421,7 +421,7 @@ Today is the Last day of the year 2018...
 - tutorials
 - articles
 
-**Reccomended article:** [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
+**Recommended article:** [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
 
 
 
