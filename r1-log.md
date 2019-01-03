@@ -415,6 +415,14 @@ Today is the Last day of the year 2018...
 
 **Link to work:** [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
 
+---
+### :calendar: R1D44 #100DaysOfCode 
+- JS Exercises
+- tutorials
+- articles
+
+**Reccomended article:** [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
+
 
 
 📌
