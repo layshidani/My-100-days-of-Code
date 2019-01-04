@@ -423,6 +423,10 @@ Today is the Last day of the year 2018...
 
 **Recommended article:** [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
 
+---
+### :calendar: R1D45 #100DaysOfCode 
+- JS Challenges on HackerRank (I won my first bronze badge)
+- JS tutorials
+- articles
 
-
-📌
+**Link:** [My Hacker Rank profile](https://www.hackerrank.com/hlays)
