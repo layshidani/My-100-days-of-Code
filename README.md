@@ -1,5 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
-[Twitter](https://twitter.com/hlays_)
+[Twitter](https://twitter.com/search?l=&q=%23100daysofcode%20from%3Ahlays_)
 
 
 ## Contents
