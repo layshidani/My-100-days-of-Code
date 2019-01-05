@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Lays]
 
-__[Twitter](https://twitter.com/hlays_)__
+__[Twitter](https://twitter.com/search?l=&q=%23100daysofcode%20from%3Ahlays_)__
 
 The log of my #100DaysOfCode challenge. 
 
@@ -430,3 +430,13 @@ Today is the Last day of the year 2018...
 - articles
 
 **Link:** [My Hacker Rank profile](https://www.hackerrank.com/hlays)
+
+---
+### :calendar: R1D46 #100DaysOfCode
+- JS Challenges on HackerRank (I won my second star on the 10 Days of JS Badge on HackerRank)
+- JS Tutorials and Exercises
+- Advancing the @freecodecamp JS curriculum
+
+**Thoughts:** Working hard on JavaScript in the last few days.
+
+**Link:** [Profile of my Hacker Rank](https://www.hackerrank.com/hlays)
