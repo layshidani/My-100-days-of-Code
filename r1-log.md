@@ -439,4 +439,15 @@ Today is the Last day of the year 2018...
 
 **Thoughts:** Working hard on JavaScript in the last few days.
 
-**Link:** [Profile of my Hacker Rank](https://www.hackerrank.com/hlays)
+**Link:** [My Hacker Rank Profile](https://www.hackerrank.com/hlays)
+
+---
+### :calendar: R1D47 #100DaysOfCode
+- JS Challenges on HackerRank #10daysofjavascript (day 3)
+- JS Tutorials
+- articles
+
+**Thoughts:** Practice, practice, practice!
+I need to improve my problem solving and use/domain of JS. It's like learning to speak a new language, sometimes you know what you mean, but do not know how to express yourself .. or sometimes you do not know anything at all ...
+
+**Link:** [Recommended article: How to read is your way to becoming a better developer](https://getpocket.com/a/read/2116159513)
