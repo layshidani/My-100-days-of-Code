@@ -451,3 +451,13 @@ Today is the Last day of the year 2018...
 I need to improve my problem solving and use/domain of JS. It's like learning to speak a new language, sometimes you know what you mean, but do not know how to express yourself .. or sometimes you do not know anything at all ...
 
 **Link:** [Recommended article: How to read is your way to becoming a better developer](https://getpocket.com/a/read/2116159513)
+
+---
+### :calendar: R1D48 #100DaysOfCode
+- JS Challenges on HackerRank #10daysofjavascript (day 4)
+- Reviewing JS objects, constructors
+- articles
+
+![HackerRank](images/r1d48.jpg)
+
+**Link:** [My Hacker Rank Profile](https://www.hackerrank.com/hlays)
