@@ -454,10 +454,21 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 
 ---
 ### :calendar: R1D48 #100DaysOfCode
-- JS Challenges on HackerRank #10daysofjavascript (day 4)
+- JS Challenges on HackerRank #10daysofjavascript
 - Reviewing JS objects, constructors
 - articles
 
 ![HackerRank](images/r1d48.jpg)
 
 **Link:** [My Hacker Rank Profile](https://www.hackerrank.com/hlays)
+
+---
+### :calendar: R1D49 #100DaysOfCode
+- JS Challenges on HackerRank #10daysofjavascript
+- Today I worked on a very simple Web Project to train JS: A temperature converter. And as simple as it sounds, it did a bit of work. Mainly to understand how to handle the DOM. 
+- I learned to store the value of an HTML input in a variable for use in JS.
+- and I learned how to make the results appear simultaneously for the other two temperatures when I enter the temperature value to be converted (now it seems simple, but it took me a while to figure it out).
+
+![HackerRank](images/r1d49.jpg)
+
+**Link:** [Conversor de Temperatura](https://Conversor-de-Temperatura--hlays.repl.co)
