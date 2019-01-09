@@ -472,3 +472,13 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 ![HackerRank](images/r1d49.jpg)
 
 **Link:** [Conversor de Temperatura](https://Conversor-de-Temperatura--hlays.repl.co)
+
+---
+### :calendar: R1D50 #100DaysOfCode
+- JS Challenges on HackerRank #10daysofjavascript
+- JS tutorials
+- @freeCodeCamp JS (regular expressions)
+
+![HackerRank](images/r1d50.png)
+
+**Link:** [FreeCodeCamp Profile](https://www.freecodecamp.org/hlays)
