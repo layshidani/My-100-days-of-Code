@@ -482,3 +482,12 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 ![HackerRank](images/r1d50.png)
 
 **Link:** [FreeCodeCamp Profile](https://www.freecodecamp.org/hlays)
+
+---
+### :calendar: R1D51 #100DaysOfCode
+(I am very grateful to Microsoft Dev Collective for the free 90 days for the 30 courses selected from Pluralsight. If interested, see the link below.)
+- I completed my code day today, advancing in the pluralsight course and reading some articles throughout the day.
+
+**thoughts:** Today I had appointments to attend and I did not have much time to program, I was able to fulfill my 1 hour of code, but I did not have time to solve any challenge of #10daysOfJavascript
+
+**Link:** [Microsoft Dev Collective](https://help.pluralsight.com/help/microsoft-dev-collective)
