@@ -491,3 +491,12 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 **thoughts:** Today I had appointments to attend and I did not have much time to program, I was able to fulfill my 1 hour of code, but I did not have time to solve any challenge of #10daysOfJavascript
 
 **Link:** [Microsoft Dev Collective](https://help.pluralsight.com/help/microsoft-dev-collective)
+
+---
+### :calendar: R1D52 #100DaysOfCode
+- JS tutorials: RegEx (love it!)
+- Reviewing general JS and taking notes
+
+**thoughts:** I'll pause the challenge 10 days of JS in Hacker Rank until I get enough knowledge to finish it...
+
+[Super secret VS Code hacks to boost your productivity](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
