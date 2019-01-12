@@ -500,3 +500,12 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 **thoughts:** I'll pause the challenge 10 days of JS in Hacker Rank until I get enough knowledge to finish it...
 
 [Super secret VS Code hacks to boost your productivity](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
+
+---
+### :calendar: R1D53 #100DaysOfCode
+- Javascript 30 - Drum Project Complete
+- Today I'm also organizing some files, updating read.me files and links from my projects.
+
+**thoughts:** I will start a bootcamp next week, so I probably will not have as much time each day to complete my challenges in Hacker Rank (which I intend to do gradually, when I have the necessary knowledge to complete them), FreeCodeCamp and # javascript30 Wes Bos. That way, whenever I have a free time, I will continue with these projects which are great and I will remain engaged in completing them.
+
+[My Project: JS30 - Drum](https://js30-drum--hlays.repl.co/)
