@@ -509,3 +509,27 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 **thoughts:** I will start a bootcamp next week, so I probably will not have as much time each day to complete my challenges in Hacker Rank (which I intend to do gradually, when I have the necessary knowledge to complete them), FreeCodeCamp and # javascript30 Wes Bos. That way, whenever I have a free time, I will continue with these projects which are great and I will remain engaged in completing them.
 
 [My Project: JS30 - Drum](https://js30-drum--hlays.repl.co/)
+
+---
+### :calendar: R1D54 #100DaysOfCode
+- Semantic HTML (done ✔️)
+- JS30 Clock (in progress)
+
+[Semantic HTML (Pluralsight)](https://app.pluralsight.com/library/courses/semantic-html-2329/table-of-contents)
+
+---
+### :calendar: R1D55 #100DaysOfCode
+- JS tutorials
+- Articles
+
+[When to use IMG vs. CSS background-image?](https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image/1469139#1469139)
+
+---
+### :calendar: R1D56 #100DaysOfCode
+- JS Tutorials
+- Exercises on Regex on @freeCodeCamp
+- Review of some notes in my JS Notebook
+
+**thoughts:** Tomorrow I will start Laboratoria bootcamp...I'm anxious!
+
+[FreeCodeCamp](https://www.freecodecamp.org/hlays)
