@@ -533,3 +533,17 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 **thoughts:** Tomorrow I will start Laboratoria bootcamp...I'm anxious!
 
 [FreeCodeCamp](https://www.freecodecamp.org/hlays)
+
+---
+### :calendar: R1D57 #100DaysOfCode
+- HTML, CSS, JS 
+- coding review 
+
+**thoughts:** I hope one day to learn enough CSS to make my pages look better !
+
+---
+### :calendar: R1D58 #100DaysOfCode
+- Review of Logic and Flowcharts (bootcamp)
+- JS Tutorials
+
+[Pluralsight JS Fundamentals](https://app.pluralsight.com/library/courses/javascript-fundamentals)
