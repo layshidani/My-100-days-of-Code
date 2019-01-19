@@ -547,3 +547,11 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 - JS Tutorials
 
 [Pluralsight JS Fundamentals](https://app.pluralsight.com/library/courses/javascript-fundamentals)
+
+---
+### :calendar: R1D59 #100DaysOfCode
+- Logic
+- JS exercises
+- Shell
+- Git, Github
+
