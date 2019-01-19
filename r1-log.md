@@ -555,3 +555,12 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 - Shell
 - Git, Github
 
+---
+
+### :calendar: R1D60 #100DaysOfCode
+- JS30 clock
+- JS Tutorials (DOM)
+
+[JS30 clock](https://js30-clock--hlays.repl.co/)
+
+![Clock](images/r1d60.jpg)
