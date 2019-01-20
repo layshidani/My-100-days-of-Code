@@ -563,4 +563,16 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 
 [JS30 clock](https://js30-clock--hlays.repl.co/)
 
-![Clock](images/r1d60.jpg)
+![Clock](images/r1d60.png)
+
+---
+
+### :calendar: R1D61 #100DaysOfCode
+- I finished the @FreeCodeCamp JS Regex session
+- JS Exercises (string methods)
+- Responsive Design tutorials
+
+
+[FreeCodeCamp](https://www.freecodecamp.org/hlays)
+
+![FreeCodeCamp](images/r1d61.png)
