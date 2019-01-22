@@ -576,3 +576,23 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 [FreeCodeCamp](https://www.freecodecamp.org/hlays)
 
 ![FreeCodeCamp](images/r1d61.png)
+
+---
+
+### :calendar: R1D62 #100DaysOfCode
+- Responsive design tutorials (images, menu)
+- Project Cypher (start)
+-#javascript30 Playing with variables (start)
+
+
+[JS30 - Wes Bos](https://javascript30.com/)
+
+
+---
+
+### :calendar: R1D63 #100DaysOfCode 
+- Responsive design tutorials (images, ux)
+- Project Cypher
+
+**thoughts:** Cypher is a bootcamp project, I'm learning to plan more before I start coding .. think of ux, flowchart, organize steps, etc ... 
+Learning more about tools like Trello, kanban, slack.
