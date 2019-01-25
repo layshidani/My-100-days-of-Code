@@ -596,3 +596,26 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 
 **thoughts:** Cypher is a bootcamp project, I'm learning to plan more before I start coding .. think of ux, flowchart, organize steps, etc ... 
 Learning more about tools like Trello, kanban, slack.
+
+---
+
+### :calendar: R1D64 #100DaysOfCode 
+- JS tutorials (Regex)
+- Bootcamp: 
+    - Review -> Array, string methods, functions
+    - Working in Project Cipher (HTML, CSS)
+
+[Project Cipher](https://lesslabgreater-cipher--hlays.repl.co/#cipher)
+![Project Cipher](images/r1d64.png)
+
+---
+
+### :calendar: R1D65 #100DaysOfCode 
+- Scrum tutorials
+- Bootcamp: 
+    - Js exercises -> Array, string methods, functions
+    - Working in Project Cipher (JS)
+
+[Project Cipher](https://lesslabgreater-cipher--hlays.repl.co/#cipher)
+
+
