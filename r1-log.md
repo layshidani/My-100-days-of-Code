@@ -618,4 +618,20 @@ Learning more about tools like Trello, kanban, slack.
 
 [Project Cipher](https://lesslabgreater-cipher--hlays.repl.co/#cipher)
 
+---
+
+### :calendar: R1D66 #100DaysOfCode 
+- Bootcamp: 
+    - Today: struggling to develop javascript from project cipher (laboratoria) 😁
+
+[Project Cipher](https://lesslabgreater-cipher--hlays.repl.co/#cipher)
+
+---
+
+### :calendar: R1D67 #100DaysOfCode 
+- Bootcamp Project: 
+    - Working in Project Cipher (JS. Function encode() is done. Now I have to solve how to decode() with offsets >= 26, and solve problem with the DOM because it is not picking up the input text).
+
+[Project Cipher](https://lesslabgreater-cipher--hlays.repl.co/#cipher)
+![Project Cipher](images/r1d67.png)
 
