@@ -632,6 +632,17 @@ Learning more about tools like Trello, kanban, slack.
 - Bootcamp Project: 
     - Working in Project Cipher (JS. Function encode() is done. Now I have to solve how to decode() with offsets >= 26, and solve problem with the DOM because it is not picking up the input text).
 
-[Project Cipher](https://lesslabgreater-cipher--hlays.repl.co/#cipher)
+[Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
 ![Project Cipher](images/r1d67.png)
+
+---
+
+### :calendar: R1D68 #100DaysOfCode 
+- Bootcamp Project: 
+    - Today, still struggling to develop Cipher.
+Tomorrow is the partial delivery of my cipher project. I've been able to fix some things, but it's still incomplete.
+I hope that by the end of next week it will be finalized and working properly.
+
+[Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
+![Project Cipher](images/r1d68.png)
 
