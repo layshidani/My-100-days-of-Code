@@ -646,3 +646,25 @@ I hope that by the end of next week it will be finalized and working properly.
 [Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
 ![Project Cipher](images/r1d68.png)
 
+---
+
+### :calendar: R1D69 #100DaysOfCode 
+- - Lab: 
+  - coding review
+  - planning 
+  - project cipher
+
+[Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
+
+
+---
+
+### :calendar: R1D70 #100DaysOfCode 
+- Lab: 
+    - Tests in JS
+    - Project Cipher: I did some testing for the project and fixed some problems in JS.
+
+[Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
+![Project Cipher](images/r1d70.jpg)
+*img from "Limão e Sal", Laura Maria Marques Paulo*
+
