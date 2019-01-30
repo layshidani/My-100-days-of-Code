@@ -649,7 +649,7 @@ I hope that by the end of next week it will be finalized and working properly.
 ---
 
 ### :calendar: R1D69 #100DaysOfCode 
-- - Lab: 
+- Laboratoria: 
   - coding review
   - planning 
   - project cipher
@@ -660,11 +660,23 @@ I hope that by the end of next week it will be finalized and working properly.
 ---
 
 ### :calendar: R1D70 #100DaysOfCode 
-- Lab: 
+- Laboratoria: 
     - Tests in JS
     - Project Cipher: I did some testing for the project and fixed some problems in JS.
 
 [Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
 ![Project Cipher](images/r1d70.jpg)
 *img from "Limão e Sal", Laura Maria Marques Paulo*
+
+---
+
+### :calendar: R1D71 #100DaysOfCode 
+- Laboratoria: 
+    - JS Objects
+    - Project Cipher <Sprint 2> (solved problem with the DOM. Now I'm trying to solve negative offset and problem with decode function)
+
+[Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
+
+![Project Cipher](images/r1d71.jpeg)
+
 
