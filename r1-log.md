@@ -679,4 +679,14 @@ I hope that by the end of next week it will be finalized and working properly.
 
 ![Project Cipher](images/r1d71.jpeg)
 
+---
 
+### :calendar: R1D72 #100DaysOfCode 
+- Laboratoria: 
+    - Guided exercises (JS Objects)
+    - Project Cipher (Complete)
+
+[Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
+
+Here's a super article for new developers to help us fight and manage with all this pressure to start learning something totally new.
+[Here’s what you need to know as a new developer](https://medium.freecodecamp.org/survival-guide-for-new-developers-12d9b048bf06)
