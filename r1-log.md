@@ -690,3 +690,16 @@ I hope that by the end of next week it will be finalized and working properly.
 
 Here's a super article for new developers to help us fight and manage with all this pressure to start learning something totally new.
 [Here’s what you need to know as a new developer](https://medium.freecodecamp.org/survival-guide-for-new-developers-12d9b048bf06)
+
+---
+
+### :calendar: R1D73 #100DaysOfCode 
+- Laboratoria: 
+    - BlueDay (remote studying)
+    - Project Cipher (improving responsive design)
+    - Exercises arrays JS
+-JS30 - Playing with CSS Variables and JS
+
+[Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
+
+[15 Useful JS Examples of map(), reduce() and filter()](https://medium.com/@alex.permyakov/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
