@@ -698,8 +698,31 @@ Here's a super article for new developers to help us fight and manage with all t
     - BlueDay (remote studying)
     - Project Cipher (improving responsive design)
     - Exercises arrays JS
--JS30 - Playing with CSS Variables and JS
+- JS30 - Playing with CSS Variables and JS
 
 [Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
 
 [15 Useful JS Examples of map(), reduce() and filter()](https://medium.com/@alex.permyakov/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
+
+---
+
+### :calendar: R1D74 #100DaysOfCode 
+- more JS exercises (arrays)
+- improvement of responsive design of project cipher (background, font size, menu)
+
+*thoughts* this is one of the things that I most enjoy and admire in the area of ​​technology, as communities are more open to sharing knowledge.
+
+![Project Cipher](r1d74.jpg)
+
+---
+
+### :calendar: R1D75 #100DaysOfCode 
+- JS30 - Playing with CSS Variables and JS (complete)
+- JS Exercises (objects)
+
+*thoughts* this is one of the things that I most enjoy and admire in the area of ​​technology, as communities are more open to sharing knowledge.
+
+![Project Cipher](r1d75.png)
+
+
+
