@@ -724,5 +724,16 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ![Project Cipher](r1d75.png)
 
+---
+
+### :calendar: R1D76 #100DaysOfCode 
+- Laboratoria:
+    - Cipher Project (demo, retrospective)
+- Pluralsight VSCode
+
+*thoughts* I learned a lot from this project. In addition to technical knowledge, much about socio-emotional skills, organization, planning, scrum ...
+
+[ASSUMINDO O PAPEL DE PROTAGONISTA EM NOSSA APRENDIZAGEM](https://woliveiras.com.br/posts/assumindo-o-papel-de-protagonista-em-nossa-aprendizagem/)
+
 
 
