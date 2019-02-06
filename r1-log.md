@@ -735,5 +735,26 @@ Here's a super article for new developers to help us fight and manage with all t
 
 [ASSUMINDO O PAPEL DE PROTAGONISTA EM NOSSA APRENDIZAGEM](https://woliveiras.com.br/posts/assumindo-o-papel-de-protagonista-em-nossa-aprendizagem/)
 
+---
+
+### :calendar: R1D77 #100DaysOfCode 
+- Pluralsight VScode
+- working in a Memory Game (js):
+
+[“Memory Game in Vanilla JavaScript” by Marina Ferreira](https://medium.freecodecamp.org/vanilla-javascript-tutorial-build-a-memory-game-in-30-minutes-e542c4447eae)
+
+---
+
+### :calendar: R1D78 #100DaysOfCode 
+- Laboratoria:
+    - LMS: finish JS exercises (Arrays, objects)
+- Pluralsight VSCode
+- @FreeCodeCamp JS Debugging complete
+
+"Wheter you want to uncover the secrets of the universe, or you want to pursue a carrer in the 21st century, basic computer programming is an essential skill to learn." -Stephen Hawking
+
+![LMS - Laboratoria - exerc - Objects](images/r1d78.png)
+![FreeCodeCamp Quote](images/r1d78-1.png)
+
 
 
