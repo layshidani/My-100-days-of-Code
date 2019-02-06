@@ -103,32 +103,32 @@ I have to review and learn a lot more about CSS.
 ---
 
 ### :calendar: R1D8
-** Today's Progress: ** Studing JavaScript Udemy ([JavaScript - Curso Completo com 6 Projetos Reais](https://www.udemy.com/javascript-curso-completo/)).
+**Today's Progress:**  Studing JavaScript Udemy ([JavaScript - Curso Completo com 6 Projetos Reais](https://www.udemy.com/javascript-curso-completo/)).
 
-** Thoughts: ** I wish there were more lists of javascript exercises on the internet to practice and retain knowledge, as is the case with Python. I think I'll use the python exercise lists for JS practice.
+**thoughts** I wish there were more lists of javascript exercises on the internet to practice and retain knowledge, as is the case with Python. I think I'll use the python exercise lists for JS practice.
 
 **Link to work:** 
 
 ---
 ### :calendar: R1D9
-** Today's Progress: ** Studying basic JavaScript (udemy) and improving CSS.
+**Today's Progress:**  Studying basic JavaScript (udemy) and improving CSS.
 
-** Thoughts: ** I do not have much time to study today, but I completed my first hour.
+**thoughts** I do not have much time to study today, but I completed my first hour.
 
 **Link to work:** 
 
 ---
 ### :calendar: R1D10
-** Today's Progress: ** Studying CSS: combinator and pseudo (class and element) selectors. 
+**Today's Progress:**  Studying CSS: combinator and pseudo (class and element) selectors. 
 I'm also working on a notebook with notes on my CSS learning.
 
 **Link to work:** [My Learning notebooks](https://github.com/hlays/mylearningnotebooks)
 
 ---
 ### :calendar: R1D11
-** Today's Progress: ** I started working on the FreeCodeCamp technical documentation page.
+**Today's Progress:**  I started working on the FreeCodeCamp technical documentation page.
 
-** Thoughts: ** I chose CSS as the theme. Its is a theme that I have had to revise a few times ... 
+**thoughts** I chose CSS as the theme. Its is a theme that I have had to revise a few times ... 
 About me and CSS: Someday, maybe, we'll understand each other. 
 We are strengthening our friendship. 😅😆
 
@@ -138,18 +138,18 @@ We are strengthening our friendship. 😅😆
 
 ---
 ### :calendar: R1D12
-** Today's Progress: ** Working on the FreeCodeCamp technical documentation page.
+**Today's Progress:**  Working on the FreeCodeCamp technical documentation page.
 
-** Thoughts: ** Today I've learned new things on HTML, like I've to use plain text to show HTML code into a HTML page (This is a good tool to this convertion http://nosetup.org/php_on_line/convertir_html_texto).
+**thoughts** Today I've learned new things on HTML, like I've to use plain text to show HTML code into a HTML page (This is a good tool to this convertion http://nosetup.org/php_on_line/convertir_html_texto).
 
 **Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
 
 ---
 
 ### :calendar: R1D13
-** Today's Progress: ** Today I tried to make my FCC project look a little better. I reviewed about CSS: text-decoration, CSS selectors tips, text-indent, box-shadow, line-height, list-style-type.
+**Today's Progress:**  Today I tried to make my FCC project look a little better. I reviewed about CSS: text-decoration, CSS selectors tips, text-indent, box-shadow, line-height, list-style-type.
 
-** Thoughts: ** Google, W3Schools and MDN are always my best friends.
+**thoughts** Google, W3Schools and MDN are always my best friends.
 
 **Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
 
@@ -157,13 +157,13 @@ We are strengthening our friendship. 😅😆
 
 ---
 ### :calendar: R1D14
-** Today's Progress: ** Review box model, float, horizontal and vertical navs.
+**Today's Progress:**  Review box model, float, horizontal and vertical navs.
 
 ---
 ### :calendar: R1D15
-** Today's Progress: ** Working on FCC Technical Documentation Page.
+**Today's Progress:**  Working on FCC Technical Documentation Page.
 
-** Thoughts: **
+**thoughts**
 
 **Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
 
@@ -171,9 +171,9 @@ We are strengthening our friendship. 😅😆
 
 ---
 ### :calendar: R1D16
-** Today's Progress: ** I have completed the FCC Technical Documentation page.
+**Today's Progress:**  I have completed the FCC Technical Documentation page.
 
-** Thoughts: ** In this project I've struggled a little harder to pass the FCC test. It's because there was a typo in a href link in navbar and it took me a long time to find it. I broke my head, but after resolving it, it all seemed like a silly fail. I will add more content to this page in the future.
+**thoughts** In this project I've struggled a little harder to pass the FCC test. It's because there was a typo in a href link in navbar and it took me a long time to find it. I broke my head, but after resolving it, it all seemed like a silly fail. I will add more content to this page in the future.
 
 ![FreeCodeCamp - Technical Documentation Page](images/r1d16.jpg)
 
@@ -181,9 +181,9 @@ We are strengthening our friendship. 😅😆
 
 ---
 ### :calendar: R1D17
-** Today's Progress: ** I'm working on the FCC landing page.
+**Today's Progress:**  I'm working on the FCC landing page.
 
-** Thoughts: ** I'm having difficulty because my navbar (using display flexbox) is not working well with "fixed position".
+**thoughts** I'm having difficulty because my navbar (using display flexbox) is not working well with "fixed position".
 
 ![FreeCodeCamp - Technical Documentation Page](images/r1d17.jpg)
 
@@ -191,9 +191,9 @@ We are strengthening our friendship. 😅😆
 
 ---
 ### :calendar: R1D18
-** Today's Progress: ** I'm working in #freeCodeCamp Landing page project.
+**Today's Progress:**  I'm working in #freeCodeCamp Landing page project.
 
-** Thoughts: ** Fixed my navbar. Now, I have to fix some test issues.
+**thoughts** Fixed my navbar. Now, I have to fix some test issues.
 
 ![FreeCodeCamp - Technical Documentation Page](images/r1d18.jpg)
 
@@ -201,14 +201,14 @@ We are strengthening our friendship. 😅😆
 
 ---
 ### :calendar: R1D19
-** Today's Progress: ** 
+**Today's Progress:**  
 - Javascript tutorials and exercises. 
 - CSS Dinner
 - CSS grid Garden 
 
 ---
 ### :calendar: R1D20
-** Today's Progress: ** 
+**Today's Progress:**  
 - Javascript tutorials and exercises. 
 - CSS Dinner
 - CSS grid Garden 
@@ -217,51 +217,51 @@ We are strengthening our friendship. 😅😆
 
 ---
 ### :calendar: R1D21
-** Today's Progress: **  JS functions
+**Today's Progress:**   JS functions
 
-** Thoughts: ** to know a little of python help me a lot to learn javascript
+**thoughts** to know a little of python help me a lot to learn javascript
 
 ---
 ### :calendar: R1D22
-** Today's Progress: **  Reviewing HTML, CSS and JS.
+**Today's Progress:**   Reviewing HTML, CSS and JS.
 
 ---
 ### :calendar: R1D23
-** Today's Progress: **  Working on a Trivia project with HTML, CSS and JavaScript.
+**Today's Progress:**   Working on a Trivia project with HTML, CSS and JavaScript.
 
 ---
 ### :calendar: R1D24
-** Today's Progress: **  Trivia Project - Laboratoria (pre admission) concluded.
+**Today's Progress:**   Trivia Project - Laboratoria (pre admission) concluded.
 
-** Thoughts: ** It was difficult to finish this project on time, but the task was completed successfully!
+**thoughts** It was difficult to finish this project on time, but the task was completed successfully!
 
 ![Trivia Project - Laboratoria pre admission](images/r1d24.jpg)
 
 ---
 ### :calendar: R1D25 #100DaysOfCode
 
-** Today's Progress: ** Code review with my Laboratoria squad, quiz, JavaScript list of exercises.
+**Today's Progress:**  Code review with my Laboratoria squad, quiz, JavaScript list of exercises.
 
-** Thoughts: ** I enjoyed doing this code review, it's amazing how each person finds a different solution to the same problem. It's cool.
+**thoughts** I enjoyed doing this code review, it's amazing how each person finds a different solution to the same problem. It's cool.
 
 ---
 ### :calendar: R1D26
 
-** Today's Progress: ** More JS and exercises.
+**Today's Progress:**  More JS and exercises.
 
 ---
 ### :calendar: R1D27 
 (I paused for this weekend because of appointments. But I read articles and I listened to podcasts in free time.)
 
-** Today's Progress: ** Working on the tests of FCC Product Landing Page and watching JS tutorials.
+**Today's Progress:**  Working on the tests of FCC Product Landing Page and watching JS tutorials.
 
 ---
 ### :calendar: R1D28 #100DaysOfCode
-** Today's Progress: ** I'm working on the FCC landing page. I decided to start with another one. 
+**Today's Progress:**  I'm working on the FCC landing page. I decided to start with another one. 
 
 I reviewed the fundamentals of JS.
 
-** Thoughts: ** I've to make a navigation menu fixed at the top. As much as I like this set menu on the left side of the page ...
+**thoughts** I've to make a navigation menu fixed at the top. As much as I like this set menu on the left side of the page ...
 
 ![FreeCodeCamp - Landing Page](images/r1d28.jpg)
 
@@ -269,12 +269,12 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D29 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 
 - I made the horizontal navigation bar fixed in the FCC Product Landing Page project.
 - Work on JS FreeCodingCamp lessons and watch tutorials on JS arrays.
 
-** Thoughts: ** I have only one problem to solve in this project to pass the FCC test. The page was very simple, but I liked the result.
+**thoughts** I have only one problem to solve in this project to pass the FCC test. The page was very simple, but I liked the result.
 
 ![FreeCodeCamp - Landing Page](images/r1d29.jpg)
 
@@ -282,12 +282,12 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D30 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 
 - FCC Product Landing Page Complete! I am now working on FCC Personal Portifolio (which will have more projects :) thanks @freecodecamp for this content building curriculum and experience gained during the projects).
 - I worked on the FCC JS curriculum exercises today. I also did some other JS exercises on arrays and functions and watched JS tutorials.
 
-** Thoughts: ** Day 30! A Challenge Month #100DaysOfCode.
+**thoughts** Day 30! A Challenge Month #100DaysOfCode.
 
 ![FreeCodeCamp - Landing Page](images/r1d30.jpg)
 
@@ -295,41 +295,41 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D31 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 
 - I started working at FCC Personal Portifolio,
 - JS exercises on switch and functions,
 - FCC Javascript exercises.
 
-** Thoughts: ** 
+**thoughts** 
 
 ---
 ### :calendar: R1D32 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 
 - JS exercises and Tutorials,
 - FCC Javascript exercises.
 
-** Thoughts: ** 
+**thoughts** 
 
 ---
 ### :calendar: R1D33 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 
 - JS arrays,
 - JS wrapper objects,
 - @freecodecamp Javascript exercises.
 
-** Thoughts: **  It's fun work with arrays.
+**thoughts**  It's fun work with arrays.
 
 ---
 ### :calendar: R1D34 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 
 - Working on FCC Personal Portifolio (There is still much to improve, but it is going!)
 - Watched JS Tutorials
 
-** Thoughts: **  Today is Christmas Eve, but code challenge is completed!
+**thoughts**  Today is Christmas Eve, but code challenge is completed!
 
 ![FreeCodeCamp - Personal Portifolio](images/r1d34.jpg)
 
@@ -337,14 +337,14 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D35 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 
 - JS: do, for, for in
 - Git Merge and rebase articles and tutorials
 
 ---
 ### :calendar: R1D36 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 
 - FCC Personal Portifolio complete.
 - Watched JS Tutorials (objects)
@@ -355,48 +355,48 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D37 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 
 - @freecodecamp Responsive Web Design complete!
 - JS Exercises (converting type, functions)
 - Pluralsight How Git Works complete
 - Pluralsight HTML, CSS, JS: Big Picture complete
 
-** Thoughts: ** 
+**thoughts** 
 Today the day is being productive.
 
 ![FreeCodeCamp - Personal Portifolio](images/r1d37.jpg)
 
 ---
 ### :calendar: R1D38 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 - JS tutorials (objects)
 - Pluralsight Mastering Git
 
 ---
 ### :calendar: R1D39 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 - Today, I have made some improvements in FCC Personal Portifolio, but I still want to improve it more.
 - JS Tutorials and Exercises (Array Methods)
 
-** Thoughts: **
+***thoughts**
 As I improve my knowledge and experience, I want to get back on the FCC projects and improve them.
 
 ---
 ### :calendar: R1D40 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:** 
 - Pluralsight Mastering Git complete
 - Starting Pluralsight Building a JavaScript development environment (and loving this course)
 - JS tutorials on array methods
 
-** Thoughts: **
+**thoughts**
 
 ---
 ### :calendar: R1D41 #100DaysOfCode
-** Today's Progress: ** 
+**Today's Progress:**  
 - JS Tutorials (this, browser, more about Array Methods)
 
-** Thoughts: **
+**thoughts**
 
 Today is the Last day of the year 2018...
 2019 is coming and I wish a year full of good achievements for all of us!
@@ -712,7 +712,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 *thoughts* this is one of the things that I most enjoy and admire in the area of ​​technology, as communities are more open to sharing knowledge.
 
-![Project Cipher](r1d74.jpg)
+![Project Cipher](images/r1d74.jpg)
 
 ---
 
@@ -722,7 +722,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 *thoughts* this is one of the things that I most enjoy and admire in the area of ​​technology, as communities are more open to sharing knowledge.
 
-![Project Cipher](r1d75.png)
+![JS30 - Playing with CSS Variables](images/r1d75.png)
 
 ---
 
