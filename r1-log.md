@@ -756,5 +756,36 @@ Here's a super article for new developers to help us fight and manage with all t
 ![LMS - Laboratoria - exerc - Objects](images/r1d78.png)
 ![FreeCodeCamp Quote](images/r1d78-1.png)
 
+---
+
+### :calendar: R1D79 #100DaysOfCode 
+
+- Pluralsight VSCode
+- JS Browser
+
+[4 Dicas úteis de strings para JavaScript
+](https://medium.com/@crp_underground/4-dicas-%C3%BAteis-de-strings-para-javascript-78cd20954cf2)
+
+---
+
+### :calendar: R1D80 #100DaysOfCode 
+Laboratoria:
+- cipher project retrospective
+- ux
+- ux exercise
+
+Pluralsight VSCode
+
+---
+
+### :calendar: R1D81 #100DaysOfCode 
+-  #freeCodeCamp 
+    - Basic Data Structures (done)
+    - Basic Algorithm Scripting (doing)
+- #JavaScript30 Array Cardio Day 1 (doing)
+
+
+![FreeCodeCamp](images/r1d81.png)
+
 
 
