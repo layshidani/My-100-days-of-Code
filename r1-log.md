@@ -787,5 +787,15 @@ Pluralsight VSCode
 
 ![FreeCodeCamp](images/r1d81.png)
 
+---
+
+### :calendar: R1D82 #100DaysOfCode 
+- #freeCodeCamp 
+    - Basic Algorithm Scripting (done)
+- #JavaScript30 Array Cardio Day 1 (done)
+
+
+![FreeCodeCamp](images/r1d82.png)
+
 
 
