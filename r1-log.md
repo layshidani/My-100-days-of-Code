@@ -793,6 +793,7 @@ Pluralsight VSCode
 - #freeCodeCamp 
     - Basic Algorithm Scripting (done)
 - #JavaScript30 Array Cardio Day 1 (done)
+- command line (practicing)
 
 
 ![FreeCodeCamp](images/r1d82.png)
