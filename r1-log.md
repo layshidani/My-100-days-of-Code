@@ -769,12 +769,12 @@ Here's a super article for new developers to help us fight and manage with all t
 ---
 
 ### :calendar: R1D80 #100DaysOfCode 
-Laboratoria:
-- cipher project retrospective
-- ux
-- ux exercise
+- Laboratoria:
+    - cipher project retrospective
+    - ux
+    - ux exercise
 
-Pluralsight VSCode
+- Pluralsight VSCode
 
 ---
 
@@ -797,6 +797,34 @@ Pluralsight VSCode
 
 
 ![FreeCodeCamp](images/r1d82.png)
+
+---
+
+### :calendar: R1D83 #100DaysOfCode 
+- Pluralsight VSCode
+- Lab: ux e design Sprint
+
+
+**Link recommendation:**[Let’s explore Slice(), Splice() & Spread Syntax(…) in JavaScript](https://medium.freecodecamp.org/lets-explore-slice-splice-spread-syntax-in-javascript-e242a6f21e60)
+
+---
+
+### :calendar: R1D84 #100DaysOfCode 
+- Pluralsight VSCode
+- Laboratoria: design Sprint
+  theory and practice
+
+![Design Sprint](images/r1d84.png)
+![Design Sprint - sketch](images/r1d84-1.png)
+
+---
+
+### :calendar: R1D85 #100DaysOfCode 
+- Pluralsight VSCode
+- Laboratoria: I started the 'Freelancer' project, where we will have to replicate a site, mainly to train CSS.Traduzir Tweet
+
+
+**Link recommendation:** [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
 
 
 
