@@ -821,10 +821,21 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ### :calendar: R1D85 #100DaysOfCode 
 - Pluralsight VSCode
-- Laboratoria: I started the 'Freelancer' project, where we will have to replicate a site, mainly to train CSS.Traduzir Tweet
+- Laboratoria: I started the 'Freelancer' project, where we will have to replicate a site, mainly to train CSS.
 
 
 **Link recommendation:** [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
 
+---
+
+
+### :calendar: R1D86 #100DaysOfCode 
+- Pluralsight VSCode
+- Laboratoria: project 'Freelancer' complete.
+
+[Freelancer](https://hlays.github.io/freelancer/)
+
+
+---
 
 
