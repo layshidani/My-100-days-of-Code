@@ -834,7 +834,19 @@ Here's a super article for new developers to help us fight and manage with all t
 - Laboratoria: project 'Freelancer' complete.
 
 [Freelancer](https://hlays.github.io/freelancer/)
+![Freelancer](images/r1d86.png)
 
+
+---
+
+
+### :calendar: R1D87 #100DaysOfCode 
+- @freeCodeCamp: Object Oriented Programming (doing)
+- Laboratoria: Project "Lyft Clone" (ok)
+
+**Thoughts:** All of Laboratoria's projects seem impossible at first and far beyond my knowledge and capabilities. It's 50% of the time very difficult and it seems that really has no solution, so 20% of the time, thinking, "I do not know how, but I have to do it...", then 20% of the time: "I can do it!", Finally , 10% of the time: "I'm doing it, I'm really doing it!".
+
+![Lyft clone](images/r1d87.png)
 
 ---
 
