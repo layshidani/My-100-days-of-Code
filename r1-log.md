@@ -851,3 +851,16 @@ Here's a super article for new developers to help us fight and manage with all t
 ---
 
 
+### :calendar: R1D88 #100DaysOfCode 
+- #JavaScript30 Flex Panel Gallery (ok)
+- #freeCodeCamp: Object Oriented Programming (doing)
+- Project: Etanol ou Gasolina? (fixed error JS)
+
+[JS30 - Flex Pannel](https://hlays.github.io/learning-web/js30-flex-panels-gallery/)
+![JS30 - Flex Pannel](images/r1d88.png)
+
+[Etanol ou Gasolina?](https://hlays.github.io/learning-web/Projeto-Etanol-ou-Gasolina/)
+![Etanol ou Gasolina?](images/r1d88-1.png)
+---
+
+
