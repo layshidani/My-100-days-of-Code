@@ -814,8 +814,8 @@ Here's a super article for new developers to help us fight and manage with all t
 - Laboratoria: design Sprint
   theory and practice
 
-![Design Sprint](images/r1d84.png)
-![Design Sprint - sketch](images/r1d84-1.png)
+![Design Sprint](images/r1d84.jpg)
+![Design Sprint - sketch](images/r1d84-1.jpg)
 
 ---
 
@@ -861,6 +861,16 @@ Here's a super article for new developers to help us fight and manage with all t
 
 [Etanol ou Gasolina?](https://hlays.github.io/learning-web/Projeto-Etanol-ou-Gasolina/)
 ![Etanol ou Gasolina?](images/r1d88-1.png)
+---
+---
+
+
+### :calendar: R1D89 #100DaysOfCode 
+- #freeCodeCamp: Object Oriented Programming (ok)
+- Udemy - CSS: um passo adiante (CSSOO, SMACSS) - doing
+
+[Udemy - CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/)
+
 ---
 
 
