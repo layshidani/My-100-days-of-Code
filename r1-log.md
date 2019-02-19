@@ -861,15 +861,30 @@ Here's a super article for new developers to help us fight and manage with all t
 
 [Etanol ou Gasolina?](https://hlays.github.io/learning-web/Projeto-Etanol-ou-Gasolina/)
 ![Etanol ou Gasolina?](images/r1d88-1.png)
----
----
 
-
+---
 ### :calendar: R1D89 #100DaysOfCode 
 - #freeCodeCamp: Object Oriented Programming (ok)
 - Udemy - CSS: um passo adiante (CSSOO, SMACSS) - doing
 
 [Udemy - CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/)
+
+---
+
+---
+
+### :calendar: R1D90 #100DaysOfCode 
+- #freeCodeCamp: Functional Programming (doing)
+- Udemy - CSS: um passo adiante (SMACSS) (doing)
+- Laboratoria: Kick off Twitter (new Project sprint 2) 
+
+[Udemy - CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/)
+[Project Twitter](https://www.udemy.com/css-um-passo-adiante/)
+![Project Twitter](images/r1d90.png)
+
+**Recommended reading:**
+
+[How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de/)
 
 ---
 
