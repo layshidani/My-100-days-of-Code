@@ -888,4 +888,23 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
+### :calendar: R1D91 #100DaysOfCode 
+Laboratoria: 
+   - Studying more about DOM, javascript
+   - Working on a simplified Twitter news feed project
+
+---
+
+### :calendar: R1D92 #100DaysOfCode 
+Laboratoria: 
+   - My simplified Twitter news feed project is finally ready! I'm really happy about it ... it's been 3 days of hard work.
+
+JS:
+  - Regex exercises
+
+![Simple Twitter Feed](images/r1d92.png)
+
+---
+
+
 
