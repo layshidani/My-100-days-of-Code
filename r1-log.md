@@ -869,7 +869,6 @@ Here's a super article for new developers to help us fight and manage with all t
 
 [Udemy - CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/)
 
----
 
 ---
 
@@ -879,6 +878,7 @@ Here's a super article for new developers to help us fight and manage with all t
 - Laboratoria: Kick off Twitter (new Project sprint 2) 
 
 [Udemy - CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/)
+
 [Project Twitter](https://www.udemy.com/css-um-passo-adiante/)
 ![Project Twitter](images/r1d90.png)
 
@@ -903,6 +903,52 @@ JS:
   - Regex exercises
 
 ![Simple Twitter Feed](images/r1d92.png)
+
+---
+
+### :calendar: R1D93 #100DaysOfCode 
+Laboratoria: 
+   - Demo (Project Twitter)
+
+JS:
+  - #freecodecamp Functional Programming (doing)
+
+I recommend this great article again:
+[The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
+
+---
+
+### :calendar: R1D94 #100DaysOfCode 
+
+- laboratoria:
+  - review js methods 
+  - kickoff project "Data Lovers"
+
+---
+
+### :calendar: R1D95 #100DaysOfCode 
+
+- Design Sprint: project "Data Lovers"
+- CSS: Flexbox (tutorials and exercises)
+
+*PS: I forgot to post yesterday*
+
+Amazing tool:
+[FlexBox Playground](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
+
+---
+
+### :calendar: R1D96 #100DaysOfCode 
+
+- Design Sprint: project "Data Lovers"
+- CSS: GRID (tutorials)
+- CSS BEM: (udemy)
+
+Amazing tool:
+[Learn CSS GRID](https://learncssgrid.com/)
+
+Udemy:
+[CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/)
 
 ---
 
