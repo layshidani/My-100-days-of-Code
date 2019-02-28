@@ -952,5 +952,33 @@ Udemy:
 
 ---
 
+### :calendar: R1D97 #100DaysOfCode 
+
+- Laboratoria: working on project "Data Lovers"
+
+Recommended:
+[JS: Master the DOM](https://medium.com/re-dom/master-the-dom-bc1a2a06089b)
+
+*(Thank you to the author of this article. I finally learned how to use: creatElement, setAttribute, textContent, etc.)*
+
+---
+
+### :calendar: R1D98 #100DaysOfCode 
+
+- I continue to work on the Laboratoria Sprint 2 project, facing some difficulties working with filter() and map() to manipulate the (monstrous) data of the project.
+
+- Local Storage (class)
+
+---
+
+### :calendar: R1D99 #100DaysOfCode 
+
+-Laboratoria: I made some progress in the Data Lovers project. I was able to fix some functions!
+
+Recommended:
+[JavaScript: Conhecendo map(), filter() e reduce()](https://medium.com/@programadriano/javascript-conhecendo-map-filter-e-reduce-ce072d8f0ec5)
+
+---
+
 
 
