@@ -979,6 +979,23 @@ Recommended:
 [JavaScript: Conhecendo map(), filter() e reduce()](https://medium.com/@programadriano/javascript-conhecendo-map-filter-e-reduce-ce072d8f0ec5)
 
 ---
+### :calendar: R1D100 #100DaysOfCode 
+
+Day 100!
+I am so happy to complete this challenge and for all the experiences, commitment and things I have learned through it.
+
+Thanks all who have been with me and supported me! I hope to repeat it soon.
+
+Learning never ends, and that's what's fun about it! 
+
+...I'm still here breaking my head to manipulate the data in my project that has arrays with hundreds of objects, which in turn have several other arrays and objects and so on ...
+
+![](images/r1d100.gif)
+---
+
+Thank you!
+
+
 
 
 
