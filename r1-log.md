@@ -2,7 +2,7 @@
 
 __[Twitter](https://twitter.com/search?l=&q=%23100daysofcode%20from%3Ahlays_)__
 
-The log of my #100DaysOfCode challenge. 
+The log of my #100DaysOfCode challenge.
 
 :calendar: Started on [November 19, Monday, 2018].
 
@@ -25,7 +25,7 @@ The log of my #100DaysOfCode challenge.
 I reviewed flexbox and grid CSS.
 
 
-**Thoughts:** Summary and very nice content about flexbox and grid: 
+**Thoughts:** Summary and very nice content about flexbox and grid:
 - [Grid](http://grid.malven.co/)
 - [flexbox](http://flexbox.malven.co/)
 
@@ -87,16 +87,14 @@ I have to review and learn a lot more about CSS.
 **Link to work:** [FreeCodeCamp - Survey form](https://codepen.io/hlays/full/oQdYEE)
 
 
-![FreeCodeCamp - Tribute Page](images/r1d6a.jpg)
-
-![FreeCodeCamp - Survey form](images/r1d6b.jpg)
+![FreeCodeCamp - Tribute Page](images/r1d6.jpg)
 
 ---
 
 ### :calendar: R1D7
 **Today's Progress:** I've revised some CSS and started with a Javascript Udemy ([JavaScript - Curso Completo com 6 Projetos Reais](https://www.udemy.com/javascript-curso-completo/)).
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link to work:** [FreeCodeCamp - Survey form](https://codepen.io/hlays/full/oQdYEE)
 
@@ -107,7 +105,7 @@ I have to review and learn a lot more about CSS.
 
 **thoughts** I wish there were more lists of javascript exercises on the internet to practice and retain knowledge, as is the case with Python. I think I'll use the python exercise lists for JS practice.
 
-**Link to work:** 
+**Link to work:**
 
 ---
 ### :calendar: R1D9
@@ -115,24 +113,22 @@ I have to review and learn a lot more about CSS.
 
 **thoughts** I do not have much time to study today, but I completed my first hour.
 
-**Link to work:** 
-
 ---
 ### :calendar: R1D10
-**Today's Progress:**  Studying CSS: combinator and pseudo (class and element) selectors. 
+**Today's Progress:**  Studying CSS: combinator and pseudo (class and element) selectors.
 I'm also working on a notebook with notes on my CSS learning.
 
-**Link to work:** [My Learning notebooks](https://github.com/hlays/mylearningnotebooks)
+**Link to work:** [My Learning notebooks](https://github.com/hlays/learning-front-end)
 
 ---
 ### :calendar: R1D11
 **Today's Progress:**  I started working on the FreeCodeCamp technical documentation page.
 
-**thoughts** I chose CSS as the theme. Its is a theme that I have had to revise a few times ... 
-About me and CSS: Someday, maybe, we'll understand each other. 
+**thoughts** I chose CSS as the theme. Its is a theme that I have had to revise a few times ...
+About me and CSS: Someday, maybe, we'll understand each other.
 We are strengthening our friendship. 😅😆
 
-![FreeCodeCamp - Technical Documentation Page](images/r1d11.jpg)
+![FreeCodeCamp - Technical Documentation Page](images/R1D11.jpg)
 
 **Link to work:** [FCC - Technical Documentation Page](https://codepen.io/hlays/full/qQQePp)
 
@@ -201,19 +197,20 @@ We are strengthening our friendship. 😅😆
 
 ---
 ### :calendar: R1D19
-**Today's Progress:**  
-- Javascript tutorials and exercises. 
+**Today's Progress:**
+- Javascript tutorials and exercises.
 - CSS Dinner
-- CSS grid Garden 
+- CSS grid Garden
+
 
 ---
 ### :calendar: R1D20
-**Today's Progress:**  
-- Javascript tutorials and exercises. 
+**Today's Progress:**
+- Javascript tutorials and exercises.
 - CSS Dinner
-- CSS grid Garden 
+- CSS grid Garden
 
-![FreeCodeCamp - Technical Documentation Page](images/r1d19.jpg)
+![CSS Dinner](images/r1d19.png)
 
 ---
 ### :calendar: R1D21
@@ -250,14 +247,14 @@ We are strengthening our friendship. 😅😆
 **Today's Progress:**  More JS and exercises.
 
 ---
-### :calendar: R1D27 
+### :calendar: R1D27
 (I paused for this weekend because of appointments. But I read articles and I listened to podcasts in free time.)
 
 **Today's Progress:**  Working on the tests of FCC Product Landing Page and watching JS tutorials.
 
 ---
 ### :calendar: R1D28 #100DaysOfCode
-**Today's Progress:**  I'm working on the FCC landing page. I decided to start with another one. 
+**Today's Progress:**  I'm working on the FCC landing page. I decided to start with another one.
 
 I reviewed the fundamentals of JS.
 
@@ -269,7 +266,7 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D29 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 
 - I made the horizontal navigation bar fixed in the FCC Product Landing Page project.
 - Work on JS FreeCodingCamp lessons and watch tutorials on JS arrays.
@@ -282,7 +279,7 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D30 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 
 - FCC Product Landing Page Complete! I am now working on FCC Personal Portifolio (which will have more projects :) thanks @freecodecamp for this content building curriculum and experience gained during the projects).
 - I worked on the FCC JS curriculum exercises today. I also did some other JS exercises on arrays and functions and watched JS tutorials.
@@ -295,26 +292,26 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D31 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 
 - I started working at FCC Personal Portifolio,
 - JS exercises on switch and functions,
 - FCC Javascript exercises.
 
-**thoughts** 
+**thoughts**
 
 ---
 ### :calendar: R1D32 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 
 - JS exercises and Tutorials,
 - FCC Javascript exercises.
 
-**thoughts** 
+**thoughts**
 
 ---
 ### :calendar: R1D33 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 
 - JS arrays,
 - JS wrapper objects,
@@ -324,7 +321,7 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D34 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 
 - Working on FCC Personal Portifolio (There is still much to improve, but it is going!)
 - Watched JS Tutorials
@@ -337,14 +334,14 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D35 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 
 - JS: do, for, for in
 - Git Merge and rebase articles and tutorials
 
 ---
 ### :calendar: R1D36 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 
 - FCC Personal Portifolio complete.
 - Watched JS Tutorials (objects)
@@ -355,27 +352,27 @@ I reviewed the fundamentals of JS.
 
 ---
 ### :calendar: R1D37 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 
 - @freecodecamp Responsive Web Design complete!
 - JS Exercises (converting type, functions)
 - Pluralsight How Git Works complete
 - Pluralsight HTML, CSS, JS: Big Picture complete
 
-**thoughts** 
+**thoughts**
 Today the day is being productive.
 
 ![FreeCodeCamp - Personal Portifolio](images/r1d37.jpg)
 
 ---
 ### :calendar: R1D38 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 - JS tutorials (objects)
 - Pluralsight Mastering Git
 
 ---
 ### :calendar: R1D39 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 - Today, I have made some improvements in FCC Personal Portifolio, but I still want to improve it more.
 - JS Tutorials and Exercises (Array Methods)
 
@@ -384,7 +381,7 @@ As I improve my knowledge and experience, I want to get back on the FCC projects
 
 ---
 ### :calendar: R1D40 #100DaysOfCode
-**Today's Progress:** 
+**Today's Progress:**
 - Pluralsight Mastering Git complete
 - Starting Pluralsight Building a JavaScript development environment (and loving this course)
 - JS tutorials on array methods
@@ -393,7 +390,7 @@ As I improve my knowledge and experience, I want to get back on the FCC projects
 
 ---
 ### :calendar: R1D41 #100DaysOfCode
-**Today's Progress:**  
+**Today's Progress:**
 - JS Tutorials (this, browser, more about Array Methods)
 
 **thoughts**
@@ -402,21 +399,21 @@ Today is the Last day of the year 2018...
 2019 is coming and I wish a year full of good achievements for all of us!
 
 ---
-### :calendar: R1D42 #100DaysOfCode 
+### :calendar: R1D42 #100DaysOfCode
 - Advancing on course: Building a development environment (Pluralsight)
-- Reading some articles. 
+- Reading some articles.
 
 **Link to work:** [A good article I've read: Pro tips for Visual Studio Code to be productive in 2018](https://dev.to/teamxenox/pro-tips-for-visual-studio-code-to-be-productive-in-2018--1jek)
 
 ---
-### :calendar: R1D43 #100DaysOfCode 
+### :calendar: R1D43 #100DaysOfCode
 - Advancing on course: Building a development environment (Pluralsight)
 - JS Tutorials and exercises
 
 **Link to work:** [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
 
 ---
-### :calendar: R1D44 #100DaysOfCode 
+### :calendar: R1D44 #100DaysOfCode
 - JS Exercises
 - tutorials
 - articles
@@ -424,7 +421,7 @@ Today is the Last day of the year 2018...
 **Recommended article:** [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
 
 ---
-### :calendar: R1D45 #100DaysOfCode 
+### :calendar: R1D45 #100DaysOfCode
 - JS Challenges on HackerRank (I won my first bronze badge)
 - JS tutorials
 - articles
@@ -465,7 +462,7 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 ---
 ### :calendar: R1D49 #100DaysOfCode
 - JS Challenges on HackerRank #10daysofjavascript
-- Today I worked on a very simple Web Project to train JS: A temperature converter. And as simple as it sounds, it did a bit of work. Mainly to understand how to handle the DOM. 
+- Today I worked on a very simple Web Project to train JS: A temperature converter. And as simple as it sounds, it did a bit of work. Mainly to understand how to handle the DOM.
 - I learned to store the value of an HTML input in a variable for use in JS.
 - and I learned how to make the results appear simultaneously for the other two temperatures when I enter the temperature value to be converted (now it seems simple, but it took me a while to figure it out).
 
@@ -536,8 +533,8 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 
 ---
 ### :calendar: R1D57 #100DaysOfCode
-- HTML, CSS, JS 
-- coding review 
+- HTML, CSS, JS
+- coding review
 
 **thoughts:** I hope one day to learn enough CSS to make my pages look better !
 
@@ -590,18 +587,18 @@ I need to improve my problem solving and use/domain of JS. It's like learning to
 
 ---
 
-### :calendar: R1D63 #100DaysOfCode 
+### :calendar: R1D63 #100DaysOfCode
 - Responsive design tutorials (images, ux)
 - Project Cypher
 
-**thoughts:** Cypher is a bootcamp project, I'm learning to plan more before I start coding .. think of ux, flowchart, organize steps, etc ... 
+**thoughts:** Cypher is a bootcamp project, I'm learning to plan more before I start coding .. think of ux, flowchart, organize steps, etc ...
 Learning more about tools like Trello, kanban, slack.
 
 ---
 
-### :calendar: R1D64 #100DaysOfCode 
+### :calendar: R1D64 #100DaysOfCode
 - JS tutorials (Regex)
-- Bootcamp: 
+- Bootcamp:
     - Review -> Array, string methods, functions
     - Working in Project Cipher (HTML, CSS)
 
@@ -610,9 +607,9 @@ Learning more about tools like Trello, kanban, slack.
 
 ---
 
-### :calendar: R1D65 #100DaysOfCode 
+### :calendar: R1D65 #100DaysOfCode
 - Scrum tutorials
-- Bootcamp: 
+- Bootcamp:
     - Js exercises -> Array, string methods, functions
     - Working in Project Cipher (JS)
 
@@ -620,16 +617,16 @@ Learning more about tools like Trello, kanban, slack.
 
 ---
 
-### :calendar: R1D66 #100DaysOfCode 
-- Bootcamp: 
+### :calendar: R1D66 #100DaysOfCode
+- Bootcamp:
     - Today: struggling to develop javascript from project cipher (laboratoria) 😁
 
 [Project Cipher](https://lesslabgreater-cipher--hlays.repl.co/#cipher)
 
 ---
 
-### :calendar: R1D67 #100DaysOfCode 
-- Bootcamp Project: 
+### :calendar: R1D67 #100DaysOfCode
+- Bootcamp Project:
     - Working in Project Cipher (JS. Function encode() is done. Now I have to solve how to decode() with offsets >= 26, and solve problem with the DOM because it is not picking up the input text).
 
 [Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
@@ -637,8 +634,8 @@ Learning more about tools like Trello, kanban, slack.
 
 ---
 
-### :calendar: R1D68 #100DaysOfCode 
-- Bootcamp Project: 
+### :calendar: R1D68 #100DaysOfCode
+- Bootcamp Project:
     - Today, still struggling to develop Cipher.
 Tomorrow is the partial delivery of my cipher project. I've been able to fix some things, but it's still incomplete.
 I hope that by the end of next week it will be finalized and working properly.
@@ -648,10 +645,10 @@ I hope that by the end of next week it will be finalized and working properly.
 
 ---
 
-### :calendar: R1D69 #100DaysOfCode 
-- Laboratoria: 
+### :calendar: R1D69 #100DaysOfCode
+- Laboratoria:
   - coding review
-  - planning 
+  - planning
   - project cipher
 
 [Project Cipher](https://hlays.github.io/caesar-cipher/src/index.html)
@@ -659,8 +656,8 @@ I hope that by the end of next week it will be finalized and working properly.
 
 ---
 
-### :calendar: R1D70 #100DaysOfCode 
-- Laboratoria: 
+### :calendar: R1D70 #100DaysOfCode
+- Laboratoria:
     - Tests in JS
     - Project Cipher: I did some testing for the project and fixed some problems in JS.
 
@@ -670,8 +667,8 @@ I hope that by the end of next week it will be finalized and working properly.
 
 ---
 
-### :calendar: R1D71 #100DaysOfCode 
-- Laboratoria: 
+### :calendar: R1D71 #100DaysOfCode
+- Laboratoria:
     - JS Objects
     - Project Cipher <Sprint 2> (solved problem with the DOM. Now I'm trying to solve negative offset and problem with decode function)
 
@@ -681,8 +678,8 @@ I hope that by the end of next week it will be finalized and working properly.
 
 ---
 
-### :calendar: R1D72 #100DaysOfCode 
-- Laboratoria: 
+### :calendar: R1D72 #100DaysOfCode
+- Laboratoria:
     - Guided exercises (JS Objects)
     - Project Cipher (Complete)
 
@@ -693,8 +690,8 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D73 #100DaysOfCode 
-- Laboratoria: 
+### :calendar: R1D73 #100DaysOfCode
+- Laboratoria:
     - BlueDay (remote studying)
     - Project Cipher (improving responsive design)
     - Exercises arrays JS
@@ -706,7 +703,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D74 #100DaysOfCode 
+### :calendar: R1D74 #100DaysOfCode
 - more JS exercises (arrays)
 - improvement of responsive design of project cipher (background, font size, menu)
 
@@ -716,7 +713,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D75 #100DaysOfCode 
+### :calendar: R1D75 #100DaysOfCode
 - JS30 - Playing with CSS Variables and JS (complete)
 - JS Exercises (objects)
 
@@ -726,7 +723,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D76 #100DaysOfCode 
+### :calendar: R1D76 #100DaysOfCode
 - Laboratoria:
     - Cipher Project (demo, retrospective)
 - Pluralsight VSCode
@@ -737,7 +734,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D77 #100DaysOfCode 
+### :calendar: R1D77 #100DaysOfCode
 - Pluralsight VScode
 - working in a Memory Game (js):
 
@@ -745,7 +742,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D78 #100DaysOfCode 
+### :calendar: R1D78 #100DaysOfCode
 - Laboratoria:
     - LMS: finish JS exercises (Arrays, objects)
 - Pluralsight VSCode
@@ -758,7 +755,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D79 #100DaysOfCode 
+### :calendar: R1D79 #100DaysOfCode
 
 - Pluralsight VSCode
 - JS Browser
@@ -768,7 +765,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D80 #100DaysOfCode 
+### :calendar: R1D80 #100DaysOfCode
 - Laboratoria:
     - cipher project retrospective
     - ux
@@ -778,8 +775,8 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D81 #100DaysOfCode 
--  #freeCodeCamp 
+### :calendar: R1D81 #100DaysOfCode
+-  #freeCodeCamp
     - Basic Data Structures (done)
     - Basic Algorithm Scripting (doing)
 - #JavaScript30 Array Cardio Day 1 (doing)
@@ -789,8 +786,8 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D82 #100DaysOfCode 
-- #freeCodeCamp 
+### :calendar: R1D82 #100DaysOfCode
+- #freeCodeCamp
     - Basic Algorithm Scripting (done)
 - #JavaScript30 Array Cardio Day 1 (done)
 - command line (practicing)
@@ -800,7 +797,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D83 #100DaysOfCode 
+### :calendar: R1D83 #100DaysOfCode
 - Pluralsight VSCode
 - Lab: ux e design Sprint
 
@@ -809,7 +806,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D84 #100DaysOfCode 
+### :calendar: R1D84 #100DaysOfCode
 - Pluralsight VSCode
 - Laboratoria: design Sprint
   theory and practice
@@ -819,7 +816,7 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D85 #100DaysOfCode 
+### :calendar: R1D85 #100DaysOfCode
 - Pluralsight VSCode
 - Laboratoria: I started the 'Freelancer' project, where we will have to replicate a site, mainly to train CSS.
 
@@ -829,7 +826,7 @@ Here's a super article for new developers to help us fight and manage with all t
 ---
 
 
-### :calendar: R1D86 #100DaysOfCode 
+### :calendar: R1D86 #100DaysOfCode
 - Pluralsight VSCode
 - Laboratoria: project 'Freelancer' complete.
 
@@ -840,7 +837,7 @@ Here's a super article for new developers to help us fight and manage with all t
 ---
 
 
-### :calendar: R1D87 #100DaysOfCode 
+### :calendar: R1D87 #100DaysOfCode
 - @freeCodeCamp: Object Oriented Programming (doing)
 - Laboratoria: Project "Lyft Clone" (ok)
 
@@ -851,7 +848,7 @@ Here's a super article for new developers to help us fight and manage with all t
 ---
 
 
-### :calendar: R1D88 #100DaysOfCode 
+### :calendar: R1D88 #100DaysOfCode
 - #JavaScript30 Flex Panel Gallery (ok)
 - #freeCodeCamp: Object Oriented Programming (doing)
 - Project: Etanol ou Gasolina? (fixed error JS)
@@ -863,7 +860,7 @@ Here's a super article for new developers to help us fight and manage with all t
 ![Etanol ou Gasolina?](images/r1d88-1.png)
 
 ---
-### :calendar: R1D89 #100DaysOfCode 
+### :calendar: R1D89 #100DaysOfCode
 - #freeCodeCamp: Object Oriented Programming (ok)
 - Udemy - CSS: um passo adiante (CSSOO, SMACSS) - doing
 
@@ -872,10 +869,10 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D90 #100DaysOfCode 
+### :calendar: R1D90 #100DaysOfCode
 - #freeCodeCamp: Functional Programming (doing)
 - Udemy - CSS: um passo adiante (SMACSS) (doing)
-- Laboratoria: Kick off Twitter (new Project sprint 2) 
+- Laboratoria: Kick off Twitter (new Project sprint 2)
 
 [Udemy - CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/)
 
@@ -888,15 +885,15 @@ Here's a super article for new developers to help us fight and manage with all t
 
 ---
 
-### :calendar: R1D91 #100DaysOfCode 
-Laboratoria: 
+### :calendar: R1D91 #100DaysOfCode
+Laboratoria:
    - Studying more about DOM, javascript
    - Working on a simplified Twitter news feed project
 
 ---
 
-### :calendar: R1D92 #100DaysOfCode 
-Laboratoria: 
+### :calendar: R1D92 #100DaysOfCode
+Laboratoria:
    - My simplified Twitter news feed project is finally ready! I'm really happy about it ... it's been 3 days of hard work.
 
 JS:
@@ -906,8 +903,8 @@ JS:
 
 ---
 
-### :calendar: R1D93 #100DaysOfCode 
-Laboratoria: 
+### :calendar: R1D93 #100DaysOfCode
+Laboratoria:
    - Demo (Project Twitter)
 
 JS:
@@ -918,15 +915,15 @@ I recommend this great article again:
 
 ---
 
-### :calendar: R1D94 #100DaysOfCode 
+### :calendar: R1D94 #100DaysOfCode
 
 - laboratoria:
-  - review js methods 
+  - review js methods
   - kickoff project "Data Lovers"
 
 ---
 
-### :calendar: R1D95 #100DaysOfCode 
+### :calendar: R1D95 #100DaysOfCode
 
 - Design Sprint: project "Data Lovers"
 - CSS: Flexbox (tutorials and exercises)
@@ -938,7 +935,7 @@ Amazing tool:
 
 ---
 
-### :calendar: R1D96 #100DaysOfCode 
+### :calendar: R1D96 #100DaysOfCode
 
 - Design Sprint: project "Data Lovers"
 - CSS: GRID (tutorials)
@@ -952,7 +949,7 @@ Udemy:
 
 ---
 
-### :calendar: R1D97 #100DaysOfCode 
+### :calendar: R1D97 #100DaysOfCode
 
 - Laboratoria: working on project "Data Lovers"
 
@@ -963,7 +960,7 @@ Recommended:
 
 ---
 
-### :calendar: R1D98 #100DaysOfCode 
+### :calendar: R1D98 #100DaysOfCode
 
 - I continue to work on the Laboratoria Sprint 2 project, facing some difficulties working with filter() and map() to manipulate the (monstrous) data of the project.
 
@@ -971,7 +968,7 @@ Recommended:
 
 ---
 
-### :calendar: R1D99 #100DaysOfCode 
+### :calendar: R1D99 #100DaysOfCode
 
 -Laboratoria: I made some progress in the Data Lovers project. I was able to fix some functions!
 
@@ -979,14 +976,14 @@ Recommended:
 [JavaScript: Conhecendo map(), filter() e reduce()](https://medium.com/@programadriano/javascript-conhecendo-map-filter-e-reduce-ce072d8f0ec5)
 
 ---
-### :calendar: R1D100 #100DaysOfCode 
+### :calendar: R1D100 #100DaysOfCode
 
 Day 100!
 I am so happy to complete this challenge and for all the experiences, commitment and things I have learned through it.
 
 Thanks all who have been with me and supported me! I hope to repeat it soon.
 
-Learning never ends, and that's what's fun about it! 
+Learning never ends, and that's what's fun about it!
 
 ...I'm still here breaking my head to manipulate the data in my project that has arrays with hundreds of objects, which in turn have several other arrays and objects and so on ...
 
