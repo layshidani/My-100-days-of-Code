@@ -118,7 +118,7 @@ I have to review and learn a lot more about CSS.
 **Today's Progress:**  Studying CSS: combinator and pseudo (class and element) selectors.
 I'm also working on a notebook with notes on my CSS learning.
 
-**Link to work:** [My Learning notebooks](https://github.com/hlays/learning-front-end)
+**Link to work:** [My Learning notebooks](https://github.com/layshidani/learning-front-end)
 
 ---
 ### :calendar: R1D11
