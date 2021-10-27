@@ -1,6 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
+* [See my Challenge](r1-log.md)
 * [Twitter](https://twitter.com/search?l=&q=%23100DaysOfCode%20from%3Alayshidani&src=typd)
-* [My Challenge](r1-log.md)
+
 
 ## Contents
 
